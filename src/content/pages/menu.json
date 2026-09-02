@@ -1,0 +1,21 @@
+{
+  "hero": {
+    "eyebrow": "From the kitchen",
+    "title": "This week’s fresh-baked menu.",
+    "body": "Small-batch breads and sweet rolls made with care for Memphis tables. Availability can change with each bake, so check back for seasonal favorites.",
+    "searchLabel": "Find a favorite",
+    "searchPlaceholder": "Search breads and treats",
+    "pickupNote": "Please order at least 48 hours ahead for local Memphis pickup."
+  },
+  "catalog": {
+    "eyebrow": "Available to order",
+    "title": "Breads & sweet rolls",
+    "seasonalNote": "Seasonal availability may vary.",
+    "loading": "Loading the fresh menu…",
+    "error": "The menu is taking a moment to load. Please try again shortly.",
+    "empty": "No menu items match that search yet.",
+    "fallbackName": "Fresh from the oven",
+    "fallbackDescription": "Freshly baked in small batches for your table.",
+    "pickupLabel": "Memphis local pickup · 48-hour lead time"
+  }
+}

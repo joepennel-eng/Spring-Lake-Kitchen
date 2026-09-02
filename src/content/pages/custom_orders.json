@@ -1,0 +1,29 @@
+{
+  "hero": {
+    "eyebrow": "Custom orders",
+    "title": "Made for your gathering, baked with care.",
+    "body": "From celebration cakes to generous trays of rolls, we’ll help make your table feel special with a small-batch bake made just for your occasion."
+  },
+  "details": {
+    "title": "Tell us what you’re planning",
+    "body": "Share a few details about your event, the treats you have in mind, and when you need them. We’ll follow up to talk through availability, flavors, and pickup."
+  },
+  "highlights": [
+    {
+      "title": "Event baking",
+      "body": "Fresh breads, rolls, and sweet treats for family meals, office gatherings, and celebrations.",
+      "id": "LCafyYTmplfbpoR2-Be5v"
+    },
+    {
+      "title": "Local pickup",
+      "body": "Custom orders are prepared for local Memphis pickup with timing confirmed before your order is finalized.",
+      "id": "4ubSsZkJUBc_xV9-WNaPN"
+    }
+  ],
+  "form": {
+    "title": "Start a custom order inquiry",
+    "intro": "We’ll be in touch to confirm availability and the details of your request.",
+    "submit": "Send inquiry",
+    "success": "Thank you — we received your custom order inquiry and will be in touch soon."
+  }
+}

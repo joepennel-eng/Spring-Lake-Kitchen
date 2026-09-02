@@ -1,0 +1,16 @@
+{
+  "_note": "Snapshot of the live Airo/GoDaddy commerce catalog pulled 2026-09-02 from /api/commerce/products?first=48. Prices are in cents.",
+  "products": [
+    { "name": "crusty-bread", "label": "Crusty Bread", "description": "Fresh-baked crusty bread made in small batches.", "price": 600, "image": "/images/products/crusty-bread.jpg" },
+    { "name": "rosemary-cheddar-bread", "label": "Rosemary Cheddar Bread", "description": "Fresh-baked savory bread with rosemary and cheddar.", "price": 800, "image": "/images/products/rosemary-cheddar-bread.png" },
+    { "name": "cinnamon-brown-sugar-bread", "label": "Cinnamon Brown Sugar Bread", "description": "Fresh-baked sweet bread with cinnamon and brown sugar.", "price": 800, "image": null },
+    { "name": "cinnamon-raisin-bread", "label": "Cinnamon Raisin Bread", "description": "Fresh-baked sweet bread with cinnamon and plump raisins.", "price": 800, "image": null },
+    { "name": "jalapeno-cheddar-bread", "label": "Jalapeno Cheddar Bread", "description": "A savory homemade loaf with jalapeño peppers and cheddar cheese.", "price": 800, "image": null },
+    { "name": "cinnamon-rolls-4-count", "label": "Cinnamon Rolls (4 Count)", "description": "Four homemade cinnamon rolls, freshly baked for a small treat.", "price": 1200, "image": "/images/products/cinnamon-rolls-4-count.jpg" },
+    { "name": "cinnamon-rolls-6-count", "label": "Cinnamon Rolls (6 Count)", "description": "Six homemade cinnamon rolls, freshly baked for a smaller gathering.", "price": 1600, "image": "/images/products/cinnamon-rolls-6-count.jpg" },
+    { "name": "cinnamon-rolls-10-count", "label": "Cinnamon Rolls (10 Count)", "description": "Ten homemade cinnamon rolls, freshly baked for sharing.", "price": 2000, "image": "/images/products/cinnamon-rolls-10-count.jpg" },
+    { "name": "savory-rolls-4-count", "label": "Savory Rolls (4 Count)", "description": "Fresh-Baked cheesy garlic rolls.", "price": 1200, "image": "/images/products/savory-rolls-4-count.jpg" },
+    { "name": "savory-rolls-6-count", "label": "Savory Rolls (6 Count)", "description": "Fresh-Baked cheesy garlic rolls.", "price": 1600, "image": "/images/products/savory-rolls-6-count.jpg" },
+    { "name": "savory-rolls-10-count", "label": "Savory Rolls (10 Count)", "description": "Fresh-Baked cheesy garlic rolls.", "price": 2000, "image": "/images/products/savory-rolls-10-count.jpg" }
+  ]
+}

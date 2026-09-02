@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "eyebrow": "Memphis, Tennessee · local pickup",
+    "title": "Baked with a little more heart.",
+    "body": "Small-batch breads, cookies, and sweet treats made for the people around our table—and yours.",
+    "cta": "See today’s menu",
+    "note": "Made in small batches"
+  },
+  "menu": {
+    "eyebrow": "From the kitchen",
+    "title": "A few favorites from this week’s oven",
+    "intro": "Our full menu is coming next. For now, here’s a taste of what we love to make.",
+    "items": [
+      {
+        "name": "Rosemary Cheddar Bread",
+        "description": "A savory homemade loaf with rosemary and cheddar cheese.",
+        "price": "$8.00",
+        "id": "Ljm5_o9Bg66UBayw41X1J"
+      },
+      {
+        "name": "Cinnamon Rolls",
+        "description": "Pillowy rolls with a warm vanilla glaze, made for sharing.",
+        "price": "$12.00",
+        "id": "TVsjaznXuXmKCs-FFXTL3"
+      },
+      {
+        "name": "Savory Rolls",
+        "description": "Fresh-Baked cheesy garlic rolls.",
+        "price": "$12.00",
+        "id": "bmJznLSua_VMqPJR0K4gi"
+      }
+    ]
+  },
+  "pickup": {
+    "eyebrow": "Pickup, made simple",
+    "title": "A little planning makes every box feel fresh.",
+    "location": "Memphis, Tennessee",
+    "days": "Pickup days & hours announced with each weekly menu drop",
+    "leadTime": "Please place your order at least 48 hours ahead so every batch is baked fresh for you.",
+    "body": "Choose your favorites from the weekly menu, place your order, and we’ll send your pickup window and collection details once it’s confirmed.",
+    "steps": [
+      {
+        "title": "Choose your treats",
+        "body": "Browse the weekly menu and select the breads and sweets you’d like us to bake.",
+        "id": "pickup-step-choose"
+      },
+      {
+        "title": "Order 48 hours ahead",
+        "body": "A little lead time lets us make every loaf, roll, and box with small-batch care.",
+        "id": "pickup-step-order"
+      },
+      {
+        "title": "Collect in Memphis",
+        "body": "We’ll share your confirmed pickup window and collection guidance with your order.",
+        "id": "pickup-step-collect"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Planning a porch pickup?",
+    "body": "Keep an eye on the menu, choose your favorites, and let us bake something lovely for your table.",
+    "button": "See today’s menu"
+  },
+  "footer": {
+    "tagline": "Homemade baked goods for Memphis tables, made in small batches.",
+    "pickup": "Memphis local pickup",
+    "copyright": "The Spring Lake Kitchen Company"
+  }
+}
